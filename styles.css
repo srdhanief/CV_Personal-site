@@ -1,0 +1,170 @@
+
+header{
+    background-color: #A7D2CB;
+}
+
+h2,h3{
+    color: #58287F;
+}
+
+h4{
+    color: #2C74B3;
+} 
+p{
+    font-family: Merriwhether;
+    font-size: 1.2rem;
+}
+
+.nav-collapse{
+    padding-left: 45%;
+}
+
+.nav-containerf{
+    position: fixed;
+    top: 5px;
+    padding-top: 10px;
+}
+
+.Nav-image{
+    width: 55px;
+    margin-left: 20%;
+}
+
+nav ul li { 
+    margin-left: 15px; 
+    margin-right: 15px;  
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 1px;
+}
+
+.mountain-img{
+    width: 50%;
+    text-align: center;
+}
+
+.heading-name{
+    margin-top:7%;
+    text-align: center;
+   
+} 
+
+.heading-myname{
+    font-family: Sacramento;
+    font-weight: bold;
+    font-size: 5rem;
+    color: #227C70;
+}
+
+.heading-content{
+   padding-top: 20px;
+}
+
+.heading-myrole{
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: #227C70;
+}
+
+.horizontal-line{
+    border: dotted #24efef 8px;
+    border-bottom: none;
+    width: 5%;
+    margin-left: 47%;
+    margin-top: 5%;
+    
+} 
+
+.first-section{
+    text-align: center;
+    width:100%;
+    margin-top:100px;
+}
+.Section-img{
+    width: 150px;
+}
+
+.Section-img1{
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.Section-img2{
+    width: 150px;
+    float:right;
+    margin-left: 30px;
+}
+.Skill-row{
+    width: 50%; 
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.skills{
+    padding-top: 10px;
+    text-align: center;
+}
+.section-description{
+    padding-top: 25px;
+    margin: auto;
+    width: 30%;
+}
+
+.skill-paragraph{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.final-section{
+    text-align: center;
+    padding: 3% ;
+    width: 50%;
+    margin: auto;
+}
+
+.final-heading,.final-description{
+           padding:4%;
+           line-height: 1.5;
+} 
+
+.final-paragraph{
+    margin: 0 auto 0 auto;
+    padding-bottom: 50px;
+}
+
+.footer-links{
+    text-align: center;
+    padding: 50px 0 50px;
+    height: 50%;
+    background-color: #A7D2CB;
+}
+
+.footer-anchor{
+    padding: 40px;
+    text-decoration: none;
+    color:#227C70 ;
+}
+
+.copywright-para{
+    margin-top: 30px;
+}
+.button {
+   
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #2C74B3;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+  }
+  
+  .button:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+
